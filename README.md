@@ -96,8 +96,11 @@
 ---
 
 ## 📌 ความต้องการระบบ
+[![.NET 8 SDK](https://img.shields.io/badge/.NET%208%20SDK-recommended-informational)](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.413-windows-x64-installer)
+
 - Windows 10/11 (x64)
-- .NET 8 Desktop Runtime
+- ต้องติดตั้ง .NET 8 Desktop Runtime
+- แนะนำติดตั้ง .NET 8 SDK (เช่น 8.0.413) — ดาวน์โหลด SDK ได้ที่: [Download .NET 8.0 SDK (x64)](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.413-windows-x64-installer)
 - อินเทอร์เน็ตสำหรับการแจ้งเตือน/อัปเดต
 
 ---
